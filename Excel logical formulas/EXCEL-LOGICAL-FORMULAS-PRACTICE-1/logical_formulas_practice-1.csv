@@ -1,0 +1,11 @@
+Employee,Department,Experience_Years,Salary,Performance_Score,Full_Time,Finance department total salary,High Performer,Performance Rating,Bonus Eligibility,Training,Work
+John,HR,2,30000,85,Yes,385000,Needs Improvement,Good,Not Eligible,Needs Training,Full Time
+Alice,Finance,5,55000,90,Yes,,High Performer,Excellent,Bonus Eligible,No Training needed,Full Time
+Bob,IT,1,25000,60,No,,Needs Improvement,Average,Not Eligible,Needs Training,Part Time
+Diana,IT,8,80000,95,Yes,,High Performer,Excellent,Bonus Eligible,No Training needed,Full Time
+Ethan,Finance,4,50000,88,Yes,,High Performer,Good,Not Eligible,No Training needed,Full Time
+Fiona,HR,6,60000,70,Yes,,Needs Improvement,Average,Not Eligible,No Training needed,Full Time
+George,IT,3,40000,65,No,,Needs Improvement,Average,Not Eligible,Needs Training,Part Time
+Hannah,Finance,7,75000,92,Yes,,High Performer,Excellent,Bonus Eligible,No Training needed,Full Time
+Ian,HR,2,32000,75,Yes,,Needs Improvement,Average,Not Eligible,Needs Training,Full Time
+Julia,IT,10,90000,98,Yes,,High Performer,Excellent,Bonus Eligible,No Training needed,Full Time

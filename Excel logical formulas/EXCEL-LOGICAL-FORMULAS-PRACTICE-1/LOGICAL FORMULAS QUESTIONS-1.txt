@@ -1,0 +1,25 @@
+LOGICAL FORMULAS QUESTIONS:
+
+1. SUM
+Question: Find the total salary of all employees in the "Finance" department.
+
+2. IF
+Question: Create a column that says "High Performer" if the Performance_Score is above 85, otherwise "Needs Improvement".
+
+3. Nested IF
+Question: Create a column for Performance Rating:
+
+"Excellent" if Performance_Score ≥ 90
+
+"Good" if Performance_Score between 75 and 89
+
+"Average" if Performance_Score < 75
+
+4. IF + AND
+Question: Create a column that says "Bonus Eligible" if the employee has Experience_Years ≥ 5 AND a Performance_Score ≥ 85, otherwise "Not Eligible".
+
+5. IF + OR
+Question: Create a column that says "Training Required" if Experience_Years < 3 OR Performance_Score < 70, otherwise "No Training Needed".
+
+6. IF + NOT
+Question: Create a column that says "Part-Time" if Full_Time is NOT "Yes", otherwise "Full-Time".

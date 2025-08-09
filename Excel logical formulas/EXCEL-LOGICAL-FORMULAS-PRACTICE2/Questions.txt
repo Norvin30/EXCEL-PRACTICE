@@ -1,0 +1,25 @@
+Practice Questions for This File
+
+1) SUM
+Calculate the total stock quantity of all products in the "Electronics" category.
+
+2) IF
+Create a column that says "High Rating" if Rating > 4.5, otherwise "Standard Rating".
+
+3) Nested IF
+Assign:
+
+"Excellent" if Rating ≥ 4.5
+
+"Good" if Rating is between 4.0 and 4.49
+
+"Average" if Rating < 4.0
+
+4) IF + AND
+Mark "Restock Needed" if Stock_Quantity < 5 AND Rating ≥ 4.0, otherwise "Sufficient Stock".
+
+5) IF + OR
+Mark "Promote Product" if Stock_Quantity > 20 OR Discount_Applied = "Yes", otherwise "No Promotion".
+
+6) IF + NOT
+Mark "No Discount" if Discount_Applied is NOT "Yes", otherwise "Discount Available".
