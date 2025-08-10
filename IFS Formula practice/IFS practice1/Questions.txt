@@ -1,0 +1,17 @@
+1) COUNTIF
+Count how many orders were placed in the "East" region.
+
+2) AVERAGEIF
+Find the average sales for orders in the "West" region.
+
+3) SUMIF
+Calculate the total sales for the "Furniture" category.
+
+4) COUNTIFS
+Count how many orders were placed in the "South" region AND have a Quantity greater than 10.
+
+5) AVERAGEIFS
+Find the average rating for orders in the "North" region AND in the "Technology" category.
+
+6) SUMIFS
+Calculate the total sales for orders handled by "John Doe" in the "Central" region.
