@@ -1,0 +1,32 @@
+Excel Logical Formulas Practice – Questions
+
+1) SUM / SUMIF
+
+Calculate the total Sales for the South region.
+
+2) IF
+
+Create a column that says "Met Target" if Sales ≥ Target, otherwise "Below Target".
+
+3) Nested IF
+
+Create a performance label based on Customer_Rating:
+
+"Top" if ≥ 4.7
+
+"Good" if 4.0–4.69
+
+"Needs Improvement" if < 4.0
+
+4) IF + AND
+
+Mark "Bonus" if Months_Active ≥ 12 AND Sales ≥ Target, otherwise "No Bonus".
+
+5) IF + OR
+
+Mark "Attention" if Sales < Target OR Customer_Rating < 4.0, otherwise "OK".
+
+6) IF + NOT
+
+Mark "Onsite" if Remote is NOT "Yes", otherwise "Remote".
+
