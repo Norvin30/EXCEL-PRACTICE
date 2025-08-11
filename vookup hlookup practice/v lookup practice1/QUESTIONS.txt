@@ -1,0 +1,13 @@
+QUESTIONS:
+
+
+You have to use VLOOKUP to find:
+
+Find the salary of an employee given their Employee ID.
+
+Find the department of an employee given their Name.
+
+Find the joining date of an employee given their Employee ID.
+
+Find the location of an employee given their Name.
+
