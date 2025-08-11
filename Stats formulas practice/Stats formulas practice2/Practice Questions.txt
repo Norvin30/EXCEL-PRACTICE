@@ -1,0 +1,25 @@
+Practice Questions
+
+MAX → Find the highest sales amount in the Sales column.
+
+MIN → Find the smallest order quantity in the Quantity column.
+
+COUNT → Count how many orders are recorded in the Sales column.
+
+AVERAGE → Find the average sales value in the Sales column.
+
+MEDIAN → Find the median order quantity in the Quantity column.
+
+MODE → Find the most common product quantity ordered in the Quantity column.
+
+25th Percentile → Find the 25th percentile of sales in the Sales column.
+
+75th Percentile → Find the 75th percentile of sales in the Sales column.
+
+Standard Deviation → Find the standard deviation of sales in the Sales column.
+
+Variance → Find the variance of order quantities in the Quantity column.
+
+LARGE → Find the 3rd largest sales value in the Sales column.
+
+SMALL → Find the 2nd smallest quantity value in the Quantity column.
