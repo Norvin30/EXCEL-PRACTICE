@@ -1,0 +1,9 @@
+VLOOKUP Practice Questions
+
+Find the Name of employee E004.
+
+Find the Salary of employee E007.
+
+Find the Location of employee E002.
+
+Find the Department of employee E006.
