@@ -1,0 +1,9 @@
+Practice questions:
+
+Find the Price of P003 (Phone).
+
+Find the Product Name of P005.
+
+Get the Category of P002.
+
+Return the Stock of P004.
