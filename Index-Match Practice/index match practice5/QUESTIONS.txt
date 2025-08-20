@@ -1,0 +1,9 @@
+Practice Questions for INDEX + MATCH
+
+Find the Salary of the employee with Employee ID = E004.
+
+Get the Department of the employee named Emma.
+
+Find the Role of the employee with Employee ID = E007.
+
+Get the Name of the employee who earns 70000.
