@@ -1,0 +1,60 @@
+Practice Questions for SWITCH
+
+1)
+ Convert Scores into Performance Labels
+
+90 and above → Excellent
+
+75 to 89 → Good
+
+60 to 74 → Average
+
+Below 60 → Poor
+
+👉 Add a new column Performance using SWITCH.
+
+
+2) Map Departments to Codes
+
+Science → SC
+
+Math → MA
+
+History → HI
+
+English → EN
+
+👉 Add a new column Dept Code using SWITCH.
+
+
+3) Assign Bonus Points Based on Department
+
+Science → 10
+
+Math → 8
+
+History → 5
+
+English → 7
+
+👉 Add a new column Bonus Points.
+
+4) Grade Students Based on Scores
+
+A → 85 and above
+
+B → 70 to 84
+
+C → 55 to 69
+
+D → Below 55
+
+👉 Add a new column Grade using SWITCH.
+
+Create a Pass/Fail Column
+
+Score ≥ 60 → Pass
+
+Score < 60 → Fail
+
+👉 Add a new column Result.
